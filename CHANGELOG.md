@@ -2,6 +2,53 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.5] - 2024-03-26
+
+### Bug Fixes
+
+- Update rust crate clap to 4.4.8
+- Update rust crate serde to 1.0.193
+- Update rust crate clap to 4.4.9
+- Update rust crate clap to 4.4.10
+- Update rust crate clap to 4.4.11
+- Update rust crate clap_complete to 4.4.5
+- Update rust crate clap to 4.4.12
+- Update rust crate serde_json to 1.0.109
+- Update rust crate serde to 1.0.194
+- Update rust crate serde_json to 1.0.110
+- Update rust crate clap_complete to 4.4.6
+- Update rust crate serde_json to 1.0.111
+- Update rust crate clap to 4.4.13
+- Update rust crate serde to 1.0.195
+- Update rust crate clap to 4.4.14
+- Update rust crate clap to 4.4.15
+- Update rust crate clap to 4.4.16
+- Update rust crate clap to 4.4.17
+- Update rust crate clap_complete to 4.4.7
+- Update rust crate clap to 4.4.18
+- Update rust crate clap_complete to 4.4.8
+- Update rust crate clap_complete to 4.4.9
+- Update rust crate serde to 1.0.196
+- Update rust crate serde_json to 1.0.112
+- Update rust crate serde_json to 1.0.113
+- Update rust crate clap_complete to 4.4.10
+- Update rust crate clap to 4.5.0
+- Update rust crate clap_complete to 4.5.0
+- Update rust crate clap to 4.5.1
+- Update rust crate clap_complete to 4.5.1
+- Update rust crate serde to 1.0.197
+- Update rust crate serde_json to 1.0.114
+- Update rust crate log to 0.4.21
+- Update rust crate simplelog to 0.12.2
+- Update rust crate clap to 4.5.2
+- Update rust crate rust-ini to 0.21.0
+- Update rust crate clap to 4.5.3
+- Update rust crate clap to 4.5.4
+
+### Miscellaneous Tasks
+
+- Update actions/cache action to v4
+
 ## [0.1.4] - 2023-11-07
 
 ### Bug Fixes
